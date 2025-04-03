@@ -5,9 +5,7 @@ char stageListNames[STAGELIST_MAX][0x20] = {
     "Presentation Stages",
     "Regular Stages",
     "Bonus Stages",
-    "Special Stages",
-    "Encore Stages",
-    "Misc Stages",
+    "NOTSpecial Stages",
 };
 SceneInfo stageList[STAGELIST_MAX][0x100];
 
